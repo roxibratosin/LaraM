@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "4af7f10559203050caa514a8759367eb"
+build_time: [1555536628, 529950000]
+inputs:
+  "/Users/Roxi/Desktop/LaraMobile/LaraMobile/ViewController.swift": [1555536623, 0]
+  "/Users/Roxi/Desktop/LaraMobile/LaraMobile/AppDelegate.swift": [1555536623, 0]
