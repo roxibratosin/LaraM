@@ -5,7 +5,31 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>692DBB4C-867D-4C8D-B963-49030EDB0B2E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>692DBB4C-867D-4C8D-B963-49030EDB0B2E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>signature</key>
+			<string>LaraMobile-fejqxabtltacbzgjvkiizgxzeflb</string>
+			<key>timeStartedRecording</key>
+			<real>577399820.741853</real>
+			<key>timeStoppedRecording</key>
+			<real>577399822.37247598</real>
+			<key>title</key>
+			<string>Build target LaraMobile</string>
+			<key>uniqueIdentifier</key>
+			<string>692DBB4C-867D-4C8D-B963-49030EDB0B2E</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>

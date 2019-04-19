@@ -5,6 +5,616 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>04478CAB-18F4-4FDB-8D7A-93FFB049F7A6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>04478CAB-18F4-4FDB-8D7A-93FFB049F7A6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LaraMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LaraMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LaraMobile</string>
+			<key>timeStartedRecording</key>
+			<real>577398528.11145902</real>
+			<key>timeStoppedRecording</key>
+			<real>577398528.20152998</real>
+			<key>title</key>
+			<string>Build LaraMobile</string>
+			<key>uniqueIdentifier</key>
+			<string>04478CAB-18F4-4FDB-8D7A-93FFB049F7A6</string>
+		</dict>
+		<key>045D8C5C-65AC-4BEF-8443-94BE1024D809</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>045D8C5C-65AC-4BEF-8443-94BE1024D809.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LaraMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LaraMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LaraMobile</string>
+			<key>timeStartedRecording</key>
+			<real>577398479.02603495</real>
+			<key>timeStoppedRecording</key>
+			<real>577398479.24649501</real>
+			<key>title</key>
+			<string>Build LaraMobile</string>
+			<key>uniqueIdentifier</key>
+			<string>045D8C5C-65AC-4BEF-8443-94BE1024D809</string>
+		</dict>
+		<key>1491D395-B442-4ECA-BEEC-1A5816877036</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1491D395-B442-4ECA-BEEC-1A5816877036.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LaraMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LaraMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LaraMobile</string>
+			<key>timeStartedRecording</key>
+			<real>577398373.215029</real>
+			<key>timeStoppedRecording</key>
+			<real>577398374.00642705</real>
+			<key>title</key>
+			<string>Build LaraMobile</string>
+			<key>uniqueIdentifier</key>
+			<string>1491D395-B442-4ECA-BEEC-1A5816877036</string>
+		</dict>
+		<key>1AB23B99-8BC9-4154-A1C3-9B6C4DDFBEAE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1AB23B99-8BC9-4154-A1C3-9B6C4DDFBEAE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LaraMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LaraMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LaraMobile</string>
+			<key>timeStartedRecording</key>
+			<real>577398081.31335902</real>
+			<key>timeStoppedRecording</key>
+			<real>577398082.42606103</real>
+			<key>title</key>
+			<string>Build LaraMobile</string>
+			<key>uniqueIdentifier</key>
+			<string>1AB23B99-8BC9-4154-A1C3-9B6C4DDFBEAE</string>
+		</dict>
+		<key>2B279F54-0F29-42BF-A1BE-1CD38903E8D2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2B279F54-0F29-42BF-A1BE-1CD38903E8D2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LaraMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LaraMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LaraMobile</string>
+			<key>timeStartedRecording</key>
+			<real>577399600.64034498</real>
+			<key>timeStoppedRecording</key>
+			<real>577399601.86662805</real>
+			<key>title</key>
+			<string>Build LaraMobile</string>
+			<key>uniqueIdentifier</key>
+			<string>2B279F54-0F29-42BF-A1BE-1CD38903E8D2</string>
+		</dict>
+		<key>31057B86-3C42-482A-B10B-388059BBDE99</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>31057B86-3C42-482A-B10B-388059BBDE99.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LaraMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LaraMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LaraMobile</string>
+			<key>timeStartedRecording</key>
+			<real>577399519.46260202</real>
+			<key>timeStoppedRecording</key>
+			<real>577399522.51053298</real>
+			<key>title</key>
+			<string>Build LaraMobile</string>
+			<key>uniqueIdentifier</key>
+			<string>31057B86-3C42-482A-B10B-388059BBDE99</string>
+		</dict>
+		<key>40758E5C-D1BA-42B4-96D5-CD1DBA765091</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>40758E5C-D1BA-42B4-96D5-CD1DBA765091.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LaraMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LaraMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LaraMobile</string>
+			<key>timeStartedRecording</key>
+			<real>577398381.13030899</real>
+			<key>timeStoppedRecording</key>
+			<real>577398381.97694695</real>
+			<key>title</key>
+			<string>Build LaraMobile</string>
+			<key>uniqueIdentifier</key>
+			<string>40758E5C-D1BA-42B4-96D5-CD1DBA765091</string>
+		</dict>
+		<key>420827F4-9C4C-4AEE-83D3-3EFEF2E1426E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>420827F4-9C4C-4AEE-83D3-3EFEF2E1426E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LaraMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LaraMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LaraMobile</string>
+			<key>timeStartedRecording</key>
+			<real>577388016.85517097</real>
+			<key>timeStoppedRecording</key>
+			<real>577388022.91581595</real>
+			<key>title</key>
+			<string>Build LaraMobile</string>
+			<key>uniqueIdentifier</key>
+			<string>420827F4-9C4C-4AEE-83D3-3EFEF2E1426E</string>
+		</dict>
+		<key>433EC031-32B5-4EED-A276-3FD85703A8E9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>433EC031-32B5-4EED-A276-3FD85703A8E9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LaraMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LaraMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LaraMobile</string>
+			<key>timeStartedRecording</key>
+			<real>577399819.79767394</real>
+			<key>timeStoppedRecording</key>
+			<real>577399822.47031403</real>
+			<key>title</key>
+			<string>Build LaraMobile</string>
+			<key>uniqueIdentifier</key>
+			<string>433EC031-32B5-4EED-A276-3FD85703A8E9</string>
+		</dict>
+		<key>54141F5C-ADED-4520-BEEA-681D8336565A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>54141F5C-ADED-4520-BEEA-681D8336565A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LaraMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LaraMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LaraMobile</string>
+			<key>timeStartedRecording</key>
+			<real>577398376.42685604</real>
+			<key>timeStoppedRecording</key>
+			<real>577398377.42358398</real>
+			<key>title</key>
+			<string>Build LaraMobile</string>
+			<key>uniqueIdentifier</key>
+			<string>54141F5C-ADED-4520-BEEA-681D8336565A</string>
+		</dict>
+		<key>63A3943B-4A4B-4D19-A5C3-3B08CBCB64E2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>63A3943B-4A4B-4D19-A5C3-3B08CBCB64E2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LaraMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LaraMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LaraMobile</string>
+			<key>timeStartedRecording</key>
+			<real>577398525.37551296</real>
+			<key>timeStoppedRecording</key>
+			<real>577398526.39659297</real>
+			<key>title</key>
+			<string>Build LaraMobile</string>
+			<key>uniqueIdentifier</key>
+			<string>63A3943B-4A4B-4D19-A5C3-3B08CBCB64E2</string>
+		</dict>
+		<key>86F00794-9915-4560-B4AF-59CB68335EB6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>86F00794-9915-4560-B4AF-59CB68335EB6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LaraMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LaraMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LaraMobile</string>
+			<key>timeStartedRecording</key>
+			<real>577398351.05378103</real>
+			<key>timeStoppedRecording</key>
+			<real>577398352.18575895</real>
+			<key>title</key>
+			<string>Build LaraMobile</string>
+			<key>uniqueIdentifier</key>
+			<string>86F00794-9915-4560-B4AF-59CB68335EB6</string>
+		</dict>
+		<key>8CBF426A-457F-4D2A-B375-A1183CF1FAEE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8CBF426A-457F-4D2A-B375-A1183CF1FAEE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LaraMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LaraMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LaraMobile</string>
+			<key>timeStartedRecording</key>
+			<real>577399768.44340205</real>
+			<key>timeStoppedRecording</key>
+			<real>577399771.32725596</real>
+			<key>title</key>
+			<string>Build LaraMobile</string>
+			<key>uniqueIdentifier</key>
+			<string>8CBF426A-457F-4D2A-B375-A1183CF1FAEE</string>
+		</dict>
+		<key>99A125E1-13D9-438D-ABB1-22D655B4FCEF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>99A125E1-13D9-438D-ABB1-22D655B4FCEF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LaraMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LaraMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LaraMobile</string>
+			<key>timeStartedRecording</key>
+			<real>577399363.76153398</real>
+			<key>timeStoppedRecording</key>
+			<real>577399366.48715305</real>
+			<key>title</key>
+			<string>Build LaraMobile</string>
+			<key>uniqueIdentifier</key>
+			<string>99A125E1-13D9-438D-ABB1-22D655B4FCEF</string>
+		</dict>
+		<key>A4AA467A-D27C-4607-8F0D-FC89D70024E8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A4AA467A-D27C-4607-8F0D-FC89D70024E8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LaraMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LaraMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LaraMobile</string>
+			<key>timeStartedRecording</key>
+			<real>577398407.69322896</real>
+			<key>timeStoppedRecording</key>
+			<real>577398408.76640201</real>
+			<key>title</key>
+			<string>Build LaraMobile</string>
+			<key>uniqueIdentifier</key>
+			<string>A4AA467A-D27C-4607-8F0D-FC89D70024E8</string>
+		</dict>
+		<key>A84F0645-AF12-42FA-84EE-634D7BF292CF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A84F0645-AF12-42FA-84EE-634D7BF292CF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LaraMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LaraMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LaraMobile</string>
+			<key>timeStartedRecording</key>
+			<real>577398046.88063395</real>
+			<key>timeStoppedRecording</key>
+			<real>577398049.59560502</real>
+			<key>title</key>
+			<string>Build LaraMobile</string>
+			<key>uniqueIdentifier</key>
+			<string>A84F0645-AF12-42FA-84EE-634D7BF292CF</string>
+		</dict>
+		<key>AFFFC3AA-70B6-46C0-9055-4FC9EF321C9A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AFFFC3AA-70B6-46C0-9055-4FC9EF321C9A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LaraMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LaraMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LaraMobile</string>
+			<key>timeStartedRecording</key>
+			<real>577398302.47128499</real>
+			<key>timeStoppedRecording</key>
+			<real>577398305.06345797</real>
+			<key>title</key>
+			<string>Build LaraMobile</string>
+			<key>uniqueIdentifier</key>
+			<string>AFFFC3AA-70B6-46C0-9055-4FC9EF321C9A</string>
+		</dict>
+		<key>B2F1C8C3-E3A7-4BFA-BF4E-97115413FC3D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B2F1C8C3-E3A7-4BFA-BF4E-97115413FC3D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LaraMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LaraMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LaraMobile</string>
+			<key>timeStartedRecording</key>
+			<real>577399700.38413894</real>
+			<key>timeStoppedRecording</key>
+			<real>577399702.05686402</real>
+			<key>title</key>
+			<string>Build LaraMobile</string>
+			<key>uniqueIdentifier</key>
+			<string>B2F1C8C3-E3A7-4BFA-BF4E-97115413FC3D</string>
+		</dict>
+		<key>BF86302D-DBFC-4BBA-8D05-1D5C016D4677</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BF86302D-DBFC-4BBA-8D05-1D5C016D4677.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LaraMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LaraMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LaraMobile</string>
+			<key>timeStartedRecording</key>
+			<real>577398078.85393298</real>
+			<key>timeStoppedRecording</key>
+			<real>577398079.85658395</real>
+			<key>title</key>
+			<string>Build LaraMobile</string>
+			<key>uniqueIdentifier</key>
+			<string>BF86302D-DBFC-4BBA-8D05-1D5C016D4677</string>
+		</dict>
+		<key>CE14A569-C390-4CB8-8FBC-C5A4B91F512B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CE14A569-C390-4CB8-8FBC-C5A4B91F512B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LaraMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LaraMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LaraMobile</string>
+			<key>timeStartedRecording</key>
+			<real>577399867.31313205</real>
+			<key>timeStoppedRecording</key>
+			<real>577399867.53565896</real>
+			<key>title</key>
+			<string>Build LaraMobile</string>
+			<key>uniqueIdentifier</key>
+			<string>CE14A569-C390-4CB8-8FBC-C5A4B91F512B</string>
+		</dict>
+		<key>EA9BC4AF-2882-4DB9-9483-414EE93A019E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EA9BC4AF-2882-4DB9-9483-414EE93A019E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LaraMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LaraMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LaraMobile</string>
+			<key>timeStartedRecording</key>
+			<real>577399423.43218398</real>
+			<key>timeStoppedRecording</key>
+			<real>577399426.56740606</real>
+			<key>title</key>
+			<string>Build LaraMobile</string>
+			<key>uniqueIdentifier</key>
+			<string>EA9BC4AF-2882-4DB9-9483-414EE93A019E</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
