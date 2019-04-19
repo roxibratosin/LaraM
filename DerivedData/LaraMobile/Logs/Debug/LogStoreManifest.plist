@@ -5,6 +5,65 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>A039F393-C413-4064-912C-3185A1D86AF4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A039F393-C413-4064-912C-3185A1D86AF4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LaraMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LaraMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug LaraMobile</string>
+			<key>timeStartedRecording</key>
+			<real>577399771.28299105</real>
+			<key>timeStoppedRecording</key>
+			<real>577399820.40146995</real>
+			<key>title</key>
+			<string>Debug LaraMobile</string>
+			<key>uniqueIdentifier</key>
+			<string>A039F393-C413-4064-912C-3185A1D86AF4</string>
+		</dict>
+		<key>F26ACFC1-29DC-451F-895D-F5B636EF2045</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F26ACFC1-29DC-451F-895D-F5B636EF2045.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LaraMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LaraMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug LaraMobile</string>
+			<key>timeStartedRecording</key>
+			<real>577399822.38788497</real>
+			<key>timeStoppedRecording</key>
+			<real>577399867.42399395</real>
+			<key>title</key>
+			<string>Debug LaraMobile</string>
+			<key>uniqueIdentifier</key>
+			<string>F26ACFC1-29DC-451F-895D-F5B636EF2045</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
